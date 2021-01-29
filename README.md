@@ -7,6 +7,5 @@
 - 😄 Interests: Volunteering, Cooking, Technology
 - ⚡ Languages: English, Yoruba, Hausa and French
 
-- 📫 How to reach me: 
-- GitHub: [@githubhandle](https://github.com/prolajumokeoni)
-- Twitter: [@twitterhandle](https://twitter.com/prolajumokeoni)
+## 📫 How to reach me 
+![Twitter Follow](https://img.shields.io/twitter/follow/prolajumokeoni) ![GitHub followers](https://img.shields.io/github/followers/prolajumokeoni?logo=Github)
