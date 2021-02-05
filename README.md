@@ -1,5 +1,5 @@
 
-## Hi! My name is Oni Olajumoke Oni *prolajumokeoni*
+## Hi! My name is Oni Olajumoke Oni 
 
 ### ABOUT ME
 - 🌱 I’m currently learning Software development
@@ -9,3 +9,4 @@
 
 ## 📫 How to reach me 
 ![Twitter Follow](https://img.shields.io/twitter/follow/prolajumokeoni) ![GitHub followers](https://img.shields.io/github/followers/prolajumokeoni?logo=Github)
+*prolajumokeoni*
