@@ -1,9 +1,9 @@
 
-## Hi! I AM ONI OLAJUMOKE PRISCILLA
+## Hi! You can call me Oni 
 
 ### ABOUT ME
 - 🌱 I’m currently learning Software development
-- 💬 Ask me about construction  and movies
+- 💬 Ask me about healthly living, construction  and movies
 - 😄 Interests: Volunteering, Cooking, Technology
 - ⚡ Languages: English, Yoruba, Hausa and French
 
