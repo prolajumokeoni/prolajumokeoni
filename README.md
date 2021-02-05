@@ -1,5 +1,5 @@
 
-## Hi! My name is ✨Priscilla Olajumoke Oni ✨
+## Hi! My name is Priscilla Olajumoke Oni ✨*prolajumokeoni* ✨
 
 ### ABOUT ME
 - 🌱 I’m currently learning Software development
