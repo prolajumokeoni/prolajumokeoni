@@ -1,5 +1,5 @@
 
-## Hi! My name is Oni Olajumoke Oni (prolajumokeoni)
+## Hi! My name is Oni Olajumoke Oni *prolajumokeoni*
 
 ### ABOUT ME
 - 🌱 I’m currently learning Software development
