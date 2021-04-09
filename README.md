@@ -1,5 +1,5 @@
 
-<h1 class="center">Hi 👋, I am Priscilla Olajumoke Oni</h1><span>✨prolajumokeoni✨</span>
+<h1 class="center">Hi 👋, I am Priscilla Olajumoke Oni  ✨prolajumokeoni✨</h1>
 
 ### ABOUT ME
 - 🌱 I’m currently learning Software development
