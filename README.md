@@ -2,11 +2,11 @@
 <h1 class="center">Hi 👋, I am Priscilla Olajumoke Oni  ✨prolajumokeoni✨</h1> <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 ### ABOUT ME
-- 🌱 I’m currently learning Software development
-- 💬 Ask me about Nigerian food and movies
-- 😄 Interests: Volunteering, Cooking, Technology
-- 👩🏿 Pronouns: She/her
-- 💆🏿‍♀️ Mantra: Live, love, learn everyday! 
+ 🌱 I’m currently learning Software development
+ 💬 Ask me about Nigerian food and movies
+ 😄 Interests: Volunteering, Cooking, Technology
+ 👩🏿 Pronouns: She/her
+ 💆🏿‍♀️ Mantra: Live, love, learn everyday! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
