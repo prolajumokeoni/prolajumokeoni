@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Software development
 - 💬 Ask me about Nigerian food and movies
 - 😄 Interests: Volunteering, Cooking, Technology
-- 👩🏿 Pronouns: She/her
 - 💆🏿‍♀️ Mantra: Live, love, learn everyday! 
 
 <h3 align="left">Connect with me:</h3>
