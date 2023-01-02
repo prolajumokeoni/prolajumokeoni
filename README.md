@@ -1,5 +1,5 @@
 
-<h1 class="center">Hi 👋, I am Priscilla Olajumoke Oni  ✨prolajumokeoni✨</h1> <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
+<h1 class="center">Hi 👋, I am Priscilla Olajumoke Oni  ✨prolajumokeoni✨</h1> <img align='right' src="https://media2.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b95269cc7827d96b54240e145d51ad1934c61ca2d98e&rid=giphy.gif&ct=s" width="230">
 
 ### ABOUT ME
 - 🌱 I’m currently learning Software development
@@ -20,6 +20,6 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"></p>
   
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=prolajumokeoni&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 
+[![prolajumoke's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prolajumokeoni&theme=cottoncandy)](https://github.com/ashutosh00710/github-readme-activity-graph)
